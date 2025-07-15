@@ -4,12 +4,8 @@ export default R2Explorer({
   readonly: false,
   basicAuth: [
     {
-      username: 'user1',
-      password: 'password1'
-    },
-    {
-      username: 'user2',
-      password: 'password2'
+      username: 'admin',
+      password: 'cloudadmin123'
     }
   ]
 });
